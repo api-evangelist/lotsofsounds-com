@@ -64,5 +64,135 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-lotsofsounds-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://lotsofsounds.com/
+Lots of Sounds provides a free CC0 sound effects library and a RESTful API for developers to search, stream, and download royalty‑free audio. The platform offers over 10,000 sounds across categories, with tools for audio conversion, trimming, and waveform generation. Plans include a free tier and paid options starting at $15/month for higher limits and commercial use. The company focuses on open licensing and easy integration for podcasts, games, videos, and AI agents.
+
+**Areas:** Company · Audio · API · Free · CC0
+
+## lotsofsounds-com on APIs.io
+
+Everything profiled for lotsofsounds-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lotsofsounds-com/](https://apis.io/providers/lotsofsounds-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [lotsofsounds-com Samples API](https://apis.io/apis/lotsofsounds-com/lotsofsounds-com-samples-api/) — Public sample endpoints - no API key required
+- [lotsofsounds-com Sounds API](https://apis.io/apis/lotsofsounds-com/lotsofsounds-com-sounds-api/) — Browse, search, and download sounds
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Lotsofsounds Com Agentic Access](https://apis.io/agentic-access/lotsofsounds-com/lotsofsounds-com-agentic-access/)
+
+#### JSON Schema (4)
+
+The data models the API reads and writes.
+
+- [Pagination](https://apis.io/schemas/lotsofsounds-com/lotsofsounds-com-pagination/)
+- [PopularSound](https://apis.io/schemas/lotsofsounds-com/lotsofsounds-com-popular-sound/)
+- [Sound](https://apis.io/schemas/lotsofsounds-com/lotsofsounds-com-sound/)
+- [SoundSummary](https://apis.io/schemas/lotsofsounds-com/lotsofsounds-com-sound-summary/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Lotsofsounds Com Context](https://apis.io/jsonld/lotsofsounds-com/lotsofsounds-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [lotsofsounds-com API Rules](https://apis.io/rules/lotsofsounds-com/lotsofsounds-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Lotsofsounds Com Authentication](https://apis.io/security/lotsofsounds-com/lotsofsounds-com-authentication/)
+- [Lotsofsounds Com Domain Security](https://apis.io/security/lotsofsounds-com/lotsofsounds-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Lotsofsounds Com Plans Pricing](https://apis.io/plans/lotsofsounds-com/lotsofsounds-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Lotsofsounds Com Rate Limits](https://apis.io/rate-limits/lotsofsounds-com/lotsofsounds-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://lotsofsounds.com/)
+- [Documentation](https://www.lotsofsounds.com/docs)
+- [Getting started](https://www.lotsofsounds.com/developers)
+- [API reference](https://www.lotsofsounds.com/openapi.json)
+- [Pricing](https://www.lotsofsounds.com/pricing)
+- [Sign up](https://www.lotsofsounds.com/sign-up)
+- [Blog](https://www.lotsofsounds.com/blog)
+- [Terms of service](https://www.lotsofsounds.com/terms)
+- [Privacy policy](https://www.lotsofsounds.com/privacy)
+- [GitHub](https://github.com/lotsofsounds)
+
+## API Evangelist rating
+
+**Kin Score 61.3** — strong · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 62.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 24.2 |
+| Developer ergonomics | 52.4 |
+| Access clarity | 73.2 |
+
+**Agent readiness 53.3** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lotsofsounds-com/](https://apis.io/providers/lotsofsounds-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for lotsofsounds-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lotsofsounds-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
